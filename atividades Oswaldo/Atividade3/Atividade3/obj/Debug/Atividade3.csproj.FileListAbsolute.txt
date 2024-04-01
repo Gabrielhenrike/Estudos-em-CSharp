@@ -1,0 +1,14 @@
+C:\Users\denta\OneDrive\Documentos\Atividade Algoritimos\Atividade3\Atividade3\bin\Debug\Atividade3.exe.config
+C:\Users\denta\OneDrive\Documentos\Atividade Algoritimos\Atividade3\Atividade3\bin\Debug\Atividade3.exe
+C:\Users\denta\OneDrive\Documentos\Atividade Algoritimos\Atividade3\Atividade3\bin\Debug\Atividade3.pdb
+C:\Users\denta\OneDrive\Documentos\Atividade Algoritimos\Atividade3\Atividade3\obj\Debug\Atividade3.csproj.CoreCompileInputs.cache
+C:\Users\denta\OneDrive\Documentos\Atividade Algoritimos\Atividade3\Atividade3\obj\Debug\Atividade3.exe
+C:\Users\denta\OneDrive\Documentos\Atividade Algoritimos\Atividade3\Atividade3\obj\Debug\Atividade3.pdb
+C:\Users\denta\OneDrive\Documentos\Atividade Algoritimos\Atividade3\Atividade3\obj\Debug\Atividade3.csprojAssemblyReference.cache
+C:\Users\gabri\Downloads\atividades Oswaldo\Atividade3\Atividade3\bin\Debug\Atividade3.exe.config
+C:\Users\gabri\Downloads\atividades Oswaldo\Atividade3\Atividade3\bin\Debug\Atividade3.exe
+C:\Users\gabri\Downloads\atividades Oswaldo\Atividade3\Atividade3\bin\Debug\Atividade3.pdb
+C:\Users\gabri\Downloads\atividades Oswaldo\Atividade3\Atividade3\obj\Debug\Atividade3.csprojAssemblyReference.cache
+C:\Users\gabri\Downloads\atividades Oswaldo\Atividade3\Atividade3\obj\Debug\Atividade3.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Downloads\atividades Oswaldo\Atividade3\Atividade3\obj\Debug\Atividade3.exe
+C:\Users\gabri\Downloads\atividades Oswaldo\Atividade3\Atividade3\obj\Debug\Atividade3.pdb
